@@ -13,8 +13,9 @@ You can find the listed version of the projects and work I have done on this pag
 ###  Python Desktop Projects
 ###  Python Web Projects
 ## C# Projects
+- [Voice Assistant Clara](https://github.com/ugurilgin/Voice-Assistant-Clara) `C# - Basic Voice Assistant`
 ## R Markup Language Projects
 ## Matlab Projects
-- [Matlab Computer Vision](https://github.com/ugurilgin/Matlab-Computer-Vision) `Matlab Face Detection Algorithm`
+- [Matlab Computer Vision](https://github.com/ugurilgin/Matlab-Computer-Vision) `Matlab - Face Detection Algorithm`
 
  
