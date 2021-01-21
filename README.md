@@ -17,6 +17,6 @@ You can find the listed version of the projects and work I have done on this pag
 ## R Markup Language Projects
 ## Matlab Projects
 - [Matlab Computer Vision](https://github.com/ugurilgin/Matlab-Computer-Vision) `Matlab - Face Detection Algorithm`
-- [Matlab Computer Vision](https://github.com/ugurilgin/Brain-Tumor-Detection-in-Matlab) `Matlab - Brain Tumor Detection Using Matlab With GUI`
+- [Matlab Brain Tumor Detection](https://github.com/ugurilgin/Brain-Tumor-Detection-in-Matlab) `Matlab - Brain Tumor Detection Using Matlab With GUI`
 
  
