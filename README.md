@@ -11,6 +11,10 @@ You can find the listed version of the projects and work I have done on this pag
 - [BMB306- Software Engineering](https://github.com/ugurilgin/BMB306-Yazilim-Muhendisligi) `Java - Android - Movie Android App`
 ## Python Projects
 ###  Python Desktop Projects
+- [Spy Program with GUI](https://github.com/ugurilgin/Cocuk-Takip-Sistemi) `Python - Spy Program`
+- [Image Processing with GUI ](https://github.com/ugurilgin/Python-Goruntu-Isleme) `Python - Image Processing Program`
+
+
 ###  Python Web Projects
 ## C# Projects
 - [Voice Assistant Clara](https://github.com/ugurilgin/Voice-Assistant-Clara) `C# - Basic Voice Assistant`
