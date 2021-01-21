@@ -8,7 +8,7 @@ You can find the listed version of the projects and work I have done on this pag
 - [MoocFi Project Cyber Security Base - Project 1](https://github.com/ugurilgin/MoocFiProject-1) `Java - Cyber Security Project`
 - [MoocFi Project Cyber Security Base - Project 2](https://github.com/ugurilgin/MoocFiProject-2) ` Cyber Security Project`
 ### Android Projects
-- [BMB306- Yazılım Mühendisliği](https://github.com/ugurilgin/BMB306-Yazilim-Muhendisligi) `Java - Android - Movie Android App`
+- [BMB306- Software Engineering](https://github.com/ugurilgin/BMB306-Yazilim-Muhendisligi) `Java - Android - Movie Android App`
 ## Python Projects
 ###  Python Desktop Projects
 ###  Python Web Projects
