@@ -13,6 +13,7 @@ You can find the listed version of the projects and work I have done on this pag
 ###  Python Desktop Projects
 - [Spy Program with GUI](https://github.com/ugurilgin/Cocuk-Takip-Sistemi) `Python - Spy Program`
 - [Image Processing with GUI ](https://github.com/ugurilgin/Python-Goruntu-Isleme) `Python - Image Processing Program`
+- [Home Automation and AI Voice Assistant with GUI ](https://www.youtube.com/watch?v=ovO3BAo4woY) `Python - PHP - Android - NodeMCU - Deep Learning - Home Automation And AI Voice Assistant`
 
 
 ###  Python Web Projects
