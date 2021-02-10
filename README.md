@@ -20,7 +20,7 @@ You can find the listed version of the projects and work I have done on this pag
 - I successfully completed the CS50s Web Programming with Python and Javascript certificate program published by Harvard University on Edx.But I couldnt buy certificate because of financial reasons.But I experienced in Django and Flask
 ## C# Projects
 - [Voice Assistant Clara](https://github.com/ugurilgin/Voice-Assistant-Clara) `C# - Basic Voice Assistant`
-- [BMB310-System Analysis and Design]() `C# - ***** Plastic Factory Automation System. `
+- [BMB310-System Analysis and Design](https://github.com/ugurilgin/BMB310-System-Analysis-and-Design) `C# - ***** Plastic Factory Automation System. `
 - Since I studied at Vocational High School(I started to developing in 2011 ), I have been developing applications with C #. (Dormitory Automation, Hotel Automation, Home Cinema Program and etc) I cannot publish other applications I have developed.
 ## R Markdown Projects
 - I successfully completed the data science certificate program published by John Hopkins University on Coursera.
