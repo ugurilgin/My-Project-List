@@ -15,11 +15,11 @@ You can find the listed version of the projects and work I have done on this pag
 - [Spy Program with GUI](https://github.com/ugurilgin/Cocuk-Takip-Sistemi) `Python - Spy Program`
 - [Image Processing with GUI ](https://github.com/ugurilgin/Python-Goruntu-Isleme) `Python - Image Processing Program`
 - [Home Automation and AI Voice Assistant with GUI ](https://www.youtube.com/watch?v=ovO3BAo4woY) `Python - PHP - Android - NodeMCU - Deep Learning - Home Automation And AI Voice Assistant`
-- I successfully completed the Data Science certificate program published by [Michigan University - Applied  Data Science with Python] (https://coursera.org/share/6b70c12547faa047da650b401c426ec5) on Coursera.
-- I successfully completed the Deep Learning certificate program published by [Deep Learning.ai - Deep Learning] (https://coursera.org/share/36c98b2fe13be9bc46664abe19256009) on Coursera.
-- I successfully completed the AI for Medicine certificate program published by [Deep Learning.ai - Medicine for AI] (https://coursera.org/share/702d687825f81f14a5a2052fd6eddb4f) on Coursera.
-- I successfully completed the Natural Language Processing certificate program published by [Deep Learning.ai - Natural Language Processing] (https://coursera.org/share/dc4ee521021b15779a1386144433484e) on Coursera.
-- I successfully completed the Self-Driving Cars certificate program published by [Toronto University - Self-Driving Cars] (https://coursera.org/share/f566023c6c908b07a77236656743b223) on Coursera.
+- I successfully completed the Data Science certificate program published by [Michigan University - Applied  Data Science with Python](https://coursera.org/share/6b70c12547faa047da650b401c426ec5) on Coursera.
+- I successfully completed the Deep Learning certificate program published by [Deep Learning.ai - Deep Learning](https://coursera.org/share/36c98b2fe13be9bc46664abe19256009) on Coursera.
+- I successfully completed the AI for Medicine certificate program published by [Deep Learning.ai - Medicine for AI](https://coursera.org/share/702d687825f81f14a5a2052fd6eddb4f) on Coursera.
+- I successfully completed the Natural Language Processing certificate program published by [Deep Learning.ai - Natural Language Processing](https://coursera.org/share/dc4ee521021b15779a1386144433484e) on Coursera.
+- I successfully completed the Self-Driving Cars certificate program published by [Toronto University - Self-Driving Cars](https://coursera.org/share/f566023c6c908b07a77236656743b223) on Coursera.
 ###  Python Web Projects
 - [CS50s Web Programming with Python and Javascript](https://github.com/ugurilgin/CS50-Web-Programming-With-Python-and-Javascript) `Flask-Django-Javascript`
 - I successfully completed the CS50s Web Programming with Python and Javascript certificate program published by Harvard University on Edx.But I couldnt buy certificate because of financial reasons.But I experienced in Django and Flask
